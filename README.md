@@ -28,7 +28,7 @@ Please click for for the [Project 1 - Progress Tracker](https://www.figma.com/pr
 ***
 
 ### ***Figma link for the game prototype***
-Please click for for the [Prototype of thr game](https://www.figma.com/proto/3wF9U6tt05lgdkn1tJaSX6/Untitled?page-id=0%3A1&node-id=4%3A2&viewport=383%2C48%2C0.25&scaling=scale-down&starting-point-node-id=4%3A2)<br>
+Please click for for the [Prototype of the game](https://www.figma.com/proto/3wF9U6tt05lgdkn1tJaSX6/Untitled?page-id=0%3A1&node-id=4%3A2&viewport=383%2C48%2C0.25&scaling=scale-down&starting-point-node-id=4%3A2)<br>
 
 #### Note: both links will lead you into the same file. There are 2 different flows, Flow 1 is the prototype of the project, Flow 2 is the Progress Tracker
 
