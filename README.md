@@ -4,6 +4,9 @@
 ### By: Yusong Shi
 ***
 
+![movie](https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMpWgFcYiV0MThcMMAVihr_5Zx2twoZ2Q_kVZOsVZ9nH1hmJZj)
+
+
 ## ***Description***: 
 #### It's been a while since the show aired, but Friends is still a lot of people's favorite show of all time and there are a lot of famous and memorable moments from different episodes. This game is to test your Friends knowlege. Enjoy the trivia game!
 ***
